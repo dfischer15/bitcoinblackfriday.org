@@ -239,3 +239,15 @@
 	"featured": false
   }
 ]
+  {
+    "title": "Blockstream 10% off Storewide",
+    "description": "Multiple products",
+    "image": "blockstream_black_friday_sale.jpg",
+    "starts": "2021-11-26T00:00:30.000Z",
+    "ends": "2021-11-28T11:59:59.000Z",
+    "categories": ["hardware wallet","stickers","hats", "apparel"],
+    "discount": "10%",
+    "url": "https://store.blockstream.com/",
+    "code": "NO CODE NEEDED",
+    "featured": false
+  },
